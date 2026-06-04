@@ -1,0 +1,37 @@
+{
+    "ogretmenler": {
+        "T1": {
+            "ad": "Merve",
+            "soyad": "Hocam",
+            "brans": "Yapay Zeka"
+        }
+    },
+    "dersler": {
+        "YZ101": {
+            "ders_adi": "Nesne Yonelimli Programlama",
+            "ogretmen_id": "T1"
+        }
+    },
+    "ogrenciler": {
+        "123": {
+            "ad": "Ahmet",
+            "soyad": "Yılmaz",
+            "notlar": [
+                {
+                    "ders_kodu": "YZ101",
+                    "not_degeri": 85
+                }
+            ]
+        },
+        "456": {
+            "ad": "Ayşe",
+            "soyad": "Kaya",
+            "notlar": [
+                {
+                    "ders_kodu": "YZ101",
+                    "not_degeri": 45
+                }
+            ]
+        }
+    }
+}
